@@ -1,2 +1,3 @@
-# gflownet-bib
-Bibtex file for related work in GFlowNet
+# Generative Flow Networks (GFlowNet) literature
+
+This repository contains a Bibtex file for the literature in GFlowNet.
